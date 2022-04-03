@@ -34,7 +34,7 @@ datadogRum.init({
   applicationId: 'c9a0577e-d95e-49ff-81bd-26b998c466fb',
   clientToken: 'pub45c33a9c4a34af5b91df4ddeb4f24d7e',
   site: 'datadoghq.com',
-  service: 'sample-app',
+  service: 'sample',
   env: 'prod',
   version: '1.0.0',
   sampleRate: 100,
