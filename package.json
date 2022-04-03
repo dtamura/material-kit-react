@@ -36,6 +36,8 @@
     ]
   },
   "dependencies": {
+    "@datadog/browser-logs": "^4.7.0",
+    "@datadog/browser-rum": "^4.7.0",
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
     "@faker-js/faker": "^6.0.0-alpha.7",
